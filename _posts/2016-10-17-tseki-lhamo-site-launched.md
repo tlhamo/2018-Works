@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "tseki-lhamo-site-launched"
 date: 2016-10-17
 ---
 
