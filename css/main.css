@@ -1,7 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #F7DC6F;
+    <!--background-color: #F7DC6F;-->
+    background-image: url(egg.jpg);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
